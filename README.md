@@ -1,2 +1,8 @@
-# Tic-Tac-Toe-CPP
-Advanced Tic Tac Toe game in C++ using 2D arrays and loops
+# Tic Tac Toe Game in C++
+
+This is a Tic Tac Toe game made in C++ using:
+- 2D arrays
+- Nested loops
+- Menu system
+
+Created as a class activity project.
